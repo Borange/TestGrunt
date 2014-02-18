@@ -1,0 +1,16 @@
+{
+  "name": "Beckers-Color-Guide",
+  "version": "0.1.0",
+  "description": "Beckers Interactive Color Guide.",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-htmlhint": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-clean": "*"
+  }
+}
